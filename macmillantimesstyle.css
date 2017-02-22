@@ -1,0 +1,281 @@
+
+    #sections
+    {
+        position: absolute;
+        z-index:1000;
+        padding-left: 4px;
+        padding-top: 4px;
+        margin: 0px;
+        top: 0px;
+        position: fixed;
+    }
+
+    #topselector
+    {
+        font-family: arial;
+        list-style-type: none;
+        position: absolute;
+        z-index:1000;
+        margin: 10px 90px;
+        top: 0px;
+        position: fixed;
+        
+    }
+
+    #topselectormain
+    {
+        font-family: arial;
+        list-style-type: none;
+        position: absolute;
+        z-index:1000;
+        margin: 10px 0px;
+        top: 0px;
+        position: fixed;
+    
+    }
+
+    .selectorli
+    {
+        padding-right: 7px;
+        float: left;
+    }
+
+    .selectorli1
+    {
+        padding-right: 7px;
+        float: left;
+        margin-right: 20px;
+    }
+
+
+    #logo
+    {
+      
+        padding-bottom: 5px;
+        padding-top: 5px;
+        border-bottom: 1px solid #808080;
+        font-family: "cabazon";
+        font-size: 28px;
+        font-weight: bold;
+        background: white;
+        margin: 0px 20px;
+        position: fixed;
+        top: 0;
+        width:100%;
+        left: 50%
+        margin-left: -50%;
+        
+        
+        text-align: center;
+    }
+
+    #logoquote
+    {
+        padding-left: 460px;
+        padding-right: 340px;
+        padding-bottom: 9px;
+        padding-top: 9px;
+        text-align: center;
+        color: #333333;
+        border-bottom: 1px solid #808080;
+        font-size: 18px;
+        position: fixed;
+        background: white;
+        margin: 0px 20px;
+        top: 0px;
+    }
+
+    #spacer
+    {
+        padding-left: 540px;
+        padding-right: 540px;
+        text-align: center;
+        border-bottom: 4px solid white;
+        font-family: "cabazon";
+        font-size: 20px;
+        color: white;
+        background: white;
+        margin: 18px;
+        top: 0px;
+    }
+
+    #spacermain
+    {
+        padding-left: 340px;
+        padding-right: 340px;
+        text-align: center;
+        border-bottom: 4px solid white;
+        font-size: 0px;
+        color: white;
+        background: white;
+        margin: 0px;
+        top: 0px;
+    }
+
+    #headline
+    {
+        margin-left: 200px;
+        margin-right: 200px;
+        line-height: 60px;
+        font-size: 40px;
+    }
+
+    #headlinesections
+    {
+        padding-top: 20px;
+        text-align: center;
+        margin-left: 200px;
+        margin-right: 200px;
+        line-height: 60px;
+        font-size: 60px;
+    }
+    #homelogo
+    {
+        text-align: center;
+        font-family: "cabazon";
+        margin-left: 200px;
+        margin-right: 200px;
+        line-height: 60px;
+        font-size: 90px;
+    }
+
+    #side
+    {
+        position: fixed;
+        height: 100%
+        margin: 0px;
+        top: 0px;
+        left: 0px;
+    }
+
+    a:hover, a:active
+    {
+        text-decoration: underline;
+    }
+
+
+    .blacklink
+    {
+        color: black;
+        text-decoration: none;
+    }
+
+    .darkgreylink
+    {
+        color: #262626;
+        text-decoration: none;
+    }
+    .greylink
+    {
+        color: #bcbcbc;
+        text-decoration: none;
+    }
+
+    .boldlink
+    {
+        color: black;
+        text-decoration:none;
+        font-weight: bold;
+    }
+
+    #byline
+    {
+        margin-left: 200px;
+        margin-right: 200px;
+        border-top: 1px solid;
+        border-bottom: 1px solid;
+    }
+
+    #socbar
+    {
+        list-style-type: none;
+        padding-right: 200px;
+        padding left: 400px;
+    }
+
+    .socmedia
+    {
+    padding-right: 200px;
+    margin-right: 200px;
+    float: left;
+    }
+
+    #story, #captions
+    {
+        text-align: justify;
+        margin-left: 200px;
+        margin-right: 200px;
+    }
+
+    #election
+    {
+        text-align: right;
+        padding-left: 30px;
+        padding-bottom: 15px;
+        margin-right: 200px;
+    }
+
+    #captions
+    {
+        font-size: 10px;
+    }
+
+    .storys
+    {
+        
+        margin-left: 200px;
+        margin-right: 500px;
+        padding-bottom: 50px;
+        padding-left: 0px;
+    }
+
+    .linklisthead
+    {
+        text-align: top;
+        padding-left: 160px;
+        margin-right: 5px;
+        font-size: 18px;
+    }
+
+    .linklistblurb
+    {
+        padding-left: 160px;
+        margin-right: 5px;
+        font-size: 13px;
+    }
+
+
+    #bottombar
+    {
+        border-top: 1px solid #bcbcbc;
+        margin-left: 200px;
+        margin-right: 200px;
+    }
+
+    ul
+    {
+        list-style-type: none;
+    }
+
+    #bottombarleft
+    {
+        float: left;
+        color: #bcbcbc;
+        font-size: 12px;
+        padding-left: 0px;
+    }
+
+    #bottombarright
+    {
+        float: right;
+        color: #bcbcbc;
+        font-size: 12px;
+        padding-right: 0px;
+    }
+
+    .bottomli
+    {
+        float: left;
+        margin-right: 4px;
+    }
+
